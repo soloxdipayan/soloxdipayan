@@ -1,8 +1,7 @@
 - 👋 Hi, I’m dipayan Mandal.
 - 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning c language.
+- 🌱 I’m currently learning java.
 - 📫 ark.mandal.3@gmail.com
-- 📫 dipayan.mandal2021@uem.edu.in
 
 <!---
 soloxdipayan/soloxdipayan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
